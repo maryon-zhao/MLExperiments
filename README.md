@@ -72,7 +72,6 @@ cd test01
 python -m venv .venv
 source .venv/bin/activate  # macOS / Linux
 .\.venv\Scripts\activate   # Windows
-pip install -r requirements.txt  # 如果有 requirements.txt
 ```
 
 3. 安装常用依赖（示例）：
@@ -134,7 +133,7 @@ python x-game/ai-snake.py
 
 ## 许可证
 
-本项目默认使用 MIT 许可证（如果你有其他偏好，请替换此处）。
+本项目默认使用 MIT 许可证。
 
 ---
 
